@@ -2,6 +2,8 @@
 
 Project to reproduce a problem with custom converters in Quarkus v3.18.
 
+Issue: https://github.com/quarkusio/quarkus/issues/46170
+
 ```sh
 ./mvnw quarkus:dev # Using v3.18.2
 ```
